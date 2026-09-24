@@ -1,0 +1,48 @@
+LICENSE
+
+Christian MUHIRWA Personal Portfolio
+Copyright (c) 2026 Christian MUHIRWA
+
+EDUCATIONAL AND PERSONAL USE LICENSE
+
+This project is created for educational and personal portfolio purposes.
+
+Permission is granted to view, study, and use the source code of this project for educational purposes. Users may learn from, modify, and adapt the HTML and CSS code for their own educational projects.
+
+However, the following restrictions apply:
+
+1. Personal Information
+
+The personal information contained in this portfolio belongs to Christian MUHIRWA and must not be copied, redistributed, or used to impersonate the author without permission.
+
+2. Profile Images
+
+The photographs and personal images included in this project are not released for unrestricted reuse. They may not be copied, modified, redistributed, or used for commercial purposes without permission from the copyright holder.
+
+3. Portfolio Content
+
+The professional biography, project descriptions, education information, skills, and other personal content may not be presented as the work or experience of another person.
+
+4. Source Code
+
+The HTML and CSS source code may be studied and modified for educational purposes. Any substantial redistribution of the project should acknowledge the original author.
+
+5. Commercial Use
+
+Commercial use of the complete portfolio, including personal information, images, and content, is not permitted without prior written permission from Christian MUHIRWA.
+
+6. No Warranty
+
+THE SOFTWARE AND PORTFOLIO CONTENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS PROJECT.
+
+7. Attribution
+
+When the source code is reused substantially for educational purposes, users are encouraged to acknowledge:
+
+Christian MUHIRWA
+Personal Portfolio Project
+2026
+
+For permission to reuse the personal content, photographs, or the complete portfolio for purposes outside education, please contact the author.
+
+END OF LICENSE
