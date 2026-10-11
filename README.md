@@ -148,5 +148,5 @@ This portfolio was developed as part of an academic project to demonstrate skill
 
 **Name:** Ntakirutimana Ufitinema Sabine  
 **GitHub:** @Sabipascaline  
-**Profile:** https://github.com/Sabipascaline  
+**Profile:**  https://github.com/Sabipascaline
 **Role:** Collaborator
