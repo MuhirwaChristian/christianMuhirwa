@@ -143,3 +143,10 @@ https://muhirwachristian.github.io/christianMuhirwa/
 ## Acknowledgements
 
 This portfolio was developed as part of an academic project to demonstrate skills in web development, HTML, CSS, responsive design, and professional portfolio presentation.
+
+## Collaborator
+
+**Name:** Ntakirutimana Ufitinema Sabine  
+**GitHub:** @Sabipascaline  
+**Profile:** https://github.com/Sabipascaline  
+**Role:** Collaborator
