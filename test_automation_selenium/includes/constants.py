@@ -1,0 +1,15 @@
+# In this file, we shall declare all the contants and variables that do not change. 
+TEST_URL = "file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html"
+DYNAMIC_DEFAULT_URL = "file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/"
+ABOUT_TEXT = "About"
+PORTFOLIO_DETAILS_TEXT = "Portfolio Details"
+PORTFOLIO_TEXT = "Project"
+SERVICES_TEXT = "Education"
+CONTACT_TEXT = "Skills"
+HOME_TEXT = "Home"
+ABOUT_URL = DYNAMIC_DEFAULT_URL + "index.html#about"
+PORTFOLIO_DETAILS_URL = DYNAMIC_DEFAULT_URL + "portfolio-details.html"
+PORTFOLIO_URL = DYNAMIC_DEFAULT_URL + "index.html#project"
+SERVICES_URL = DYNAMIC_DEFAULT_URL + "index.html#education"
+CONTACT_URL = DYNAMIC_DEFAULT_URL +"index.html#skills"
+HOME_URL = TEST_URL
