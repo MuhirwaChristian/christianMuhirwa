@@ -1,0 +1,6 @@
+Test Title:Education
+Test URL:file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html#education
+Target URL:{'About': 'file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html#about', 'Project': 'file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html#project', 'Education': 'file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html#education', 'Skills': 'file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html#skills', 'Home': 'file:///C:/Users/user/Documents/potifolio/christianMuhirwa/christianMuhirwa/index.html'}
+Result:PASS
+Time of test:2026-10-25 17:11:01.262616
+----------------------------------------
